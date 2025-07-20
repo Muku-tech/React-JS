@@ -1,0 +1,9 @@
+/*This is a module css*/
+.button2{
+  background-color: greenyellow;
+  color: blue;
+  padding:10px 20px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
